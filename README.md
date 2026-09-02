@@ -21,6 +21,6 @@ Network Reconnaissance with Nmap — port scanning and service enumeration again
 Full write-ups, screenshots, and findings for each of these are on the live site below.
 
 Links
-🌐 Portfolio Website: https://preciousisiani.netlify.app
+🌐 Portfolio Website: https://preciousisiani-cyber.netlify.app/
 💼 LinkedIn: https://www.linkedin.com/in/precious-isioma-isiani4/
 📧 Email: preciousisiani2@gmail.com
